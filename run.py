@@ -2,7 +2,7 @@
 """Weekly ESPN fantasy lineup report.
 
     python run.py                    # every configured league, current week
-    python run.py --league Wankers   # just one league (name or id)
+    python run.py --league Fantasy Footballers   # just one league (name or id)
     python run.py --check            # verify credentials and sources only
     python run.py --week 5           # override the week
     python run.py --no-subvert       # skip Subvertadown
