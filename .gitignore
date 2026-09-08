@@ -1,0 +1,27 @@
+# --- secrets: never commit these -------------------------------------------
+config.json
+config.local.json
+*.local.json
+.env
+
+# --- your data: league names, rosters, rival managers, paid content ---------
+out/
+newsletter/
+saved_html/
+.pw-profile/
+
+# --- python ----------------------------------------------------------------
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# --- editors / OS ----------------------------------------------------------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log

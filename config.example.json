@@ -1,0 +1,22 @@
+{
+  "espn": {
+    "league_id": 123456789,
+    "team_id": 1,
+    "season": 2026,
+    "espn_s2": "PASTE_espn_s2_COOKIE_HERE",
+    "swid": "{PASTE-SWID-COOKIE-HERE}"
+  },
+  "subvertadown": {
+    "mode": "cookies",
+    "cookie": "PASTE_YOUR_WHOLE_COOKIE_HEADER_FROM_SUBVERTADOWN_HERE",
+    "html_dir": "saved_html",
+    "profile_dir": ".pw-profile"
+  },
+  "rules": {
+    "scoring": "auto",
+    "fa_threshold_pts": 1.5,
+    "fa_threshold_tiers": 0,
+    "respect_hold": true,
+    "fa_limit": 250
+  }
+}
